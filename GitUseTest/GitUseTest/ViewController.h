@@ -19,5 +19,8 @@
 //测试回滚11
 - (void)revertTest1;
 
+//测试group1
+- (void)testGroup1;
+
 @end
 
