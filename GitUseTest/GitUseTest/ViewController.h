@@ -13,5 +13,8 @@
 //测试重置
 - (void)test1;
 
+//develop 测试
+- (void)developTest;
+
 @end
 
