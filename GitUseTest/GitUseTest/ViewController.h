@@ -13,5 +13,8 @@
 //测试重置
 - (void)test1;
 
+//建立新功能
+- (void)test2;
+
 @end
 
