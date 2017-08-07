@@ -10,6 +10,8 @@
 
 @interface ViewController : UIViewController
 
+//测试重置
+- (void)test1;
 
 @end
 
