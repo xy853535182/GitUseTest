@@ -10,7 +10,6 @@
 
 @interface ViewController : UIViewController
 
-
 //建立新功能
 - (void)test2;
 
