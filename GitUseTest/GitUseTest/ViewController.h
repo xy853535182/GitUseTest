@@ -10,8 +10,8 @@
 
 @interface ViewController : UIViewController
 
-//建立新功能
-- (void)test2;
+//测试重置
+- (void)test1;
 
 @end
 
