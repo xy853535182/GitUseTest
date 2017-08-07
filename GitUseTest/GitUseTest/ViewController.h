@@ -16,5 +16,8 @@
 //测试回滚
 - (void)revertTest1;
 
+//测试回滚2
+- (void)revertTest2;
+
 @end
 
