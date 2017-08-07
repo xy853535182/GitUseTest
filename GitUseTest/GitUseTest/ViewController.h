@@ -13,5 +13,8 @@
 //测试重置
 - (void)test1;
 
+//测试回滚
+- (void)revertTest1;
+
 @end
 
