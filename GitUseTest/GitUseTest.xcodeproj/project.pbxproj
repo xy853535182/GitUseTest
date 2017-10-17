@@ -15,7 +15,6 @@
 		6D5062631F3801B70074E62B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6D5062611F3801B70074E62B /* LaunchScreen.storyboard */; };
 		6D50626E1F3801B70074E62B /* GitUseTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D50626D1F3801B70074E62B /* GitUseTestTests.m */; };
 		6D5062791F3801B70074E62B /* GitUseTestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D5062781F3801B70074E62B /* GitUseTestUITests.m */; };
-		6DB30D741F95F4270029B61E /* KeCheng111.m in Sources */ = {isa = PBXBuildFile; fileRef = 6DB30D731F95F4270029B61E /* KeCheng111.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,8 +51,6 @@
 		6D5062741F3801B70074E62B /* GitUseTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitUseTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6D5062781F3801B70074E62B /* GitUseTestUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GitUseTestUITests.m; sourceTree = "<group>"; };
 		6D50627A1F3801B70074E62B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		6DB30D721F95F4270029B61E /* KeCheng111.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KeCheng111.h; sourceTree = "<group>"; };
-		6DB30D731F95F4270029B61E /* KeCheng111.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KeCheng111.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,8 +110,6 @@
 				6D5062611F3801B70074E62B /* LaunchScreen.storyboard */,
 				6D5062641F3801B70074E62B /* Info.plist */,
 				6D5062531F3801B70074E62B /* Supporting Files */,
-				6DB30D721F95F4270029B61E /* KeCheng111.h */,
-				6DB30D731F95F4270029B61E /* KeCheng111.m */,
 			);
 			path = GitUseTest;
 			sourceTree = "<group>";
@@ -282,7 +277,6 @@
 				6D50625B1F3801B70074E62B /* ViewController.m in Sources */,
 				6D5062581F3801B70074E62B /* AppDelegate.m in Sources */,
 				6D5062551F3801B70074E62B /* main.m in Sources */,
-				6DB30D741F95F4270029B61E /* KeCheng111.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
