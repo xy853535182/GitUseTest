@@ -13,7 +13,6 @@
 //测试重置
 - (void)test1;
 
-- (void)email;
 
 @end
 
