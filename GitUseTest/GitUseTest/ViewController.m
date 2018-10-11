@@ -25,5 +25,16 @@
     // Dispose of any resources that can be recreated.
 }
 
+//测试重置
+- (void)test1
+{
+    
+}
+
+- (void)test2
+{
+    
+}
+
 
 @end
